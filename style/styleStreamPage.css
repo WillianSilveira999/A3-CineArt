@@ -56,8 +56,10 @@ nav a:hover{
 }
 
 iframe{
-    max-width: 800px;
-    margin: 0px auto;
+    width: 900px;
+	height: 500px;
+    display: block;
+	margin: 30px auto;
 }
 
 footer{
